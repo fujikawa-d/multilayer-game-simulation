@@ -43,6 +43,15 @@ python3 reproduce_appendix_B.py all   # すべて連続実行
   ※モンテカルロ推定のため、`samples`・`n` を大きくするほど安定します（論文値は samples=150, n=300）。
 - **E4.4（B.6.4）**: ロジット選択（β=10/20/40）下でも必要条件構造が保持されることを確認。
 
-## ライセンス　MIT
+## ライセンス
 
-##　DOI:　10.5281/zenodo.20639456
+MIT License
+
+## DOI・引用
+
+本リポジトリは Zenodo にアーカイブされています。
+DOI: [10.5281/zenodo.20639456](https://doi.org/10.5281/zenodo.20639456)
+
+引用例:
+藤川大祐 (2026). 多重ゲーム構造の統合シミュレーション (v1.0) [Computer software].
+Zenodo. https://doi.org/10.5281/zenodo.20639456
